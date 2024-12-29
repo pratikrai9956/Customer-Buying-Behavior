@@ -11,5 +11,5 @@ Finding Correlation between the variable so that feature variable for the analys
 Splitting data into 70-30 for testing and training, Y:Dependent Variable=booking complete and X:other variables are independent.
 ###### It is a classification problem to check weather the customer will book the tickets or not, so we will be using classification models for better result, models like: Logistics Regression, Random Forest, Decision Tree and XGBoost.
 Using Confusion Matrix to check for correct predicted values.
-XGBoost gives better accuracy with 85.2%
+#### XGBoost gives better accuracy with 85.2%
 I applied cross-validation to check the accuracy and still XGBoost gives better result.
